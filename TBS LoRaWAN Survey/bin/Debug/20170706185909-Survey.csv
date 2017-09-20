@@ -1,0 +1,6 @@
+18:59:12 ,  , AT+SEND=1,,
+18:59:15 , Hut ,  OK ,
+18:59:19 , Hut , AT+SEND=1,,This is the notes
+18:59:22 , Hut ,  OK ,This is the notes
+18:59:23 , Hut , AT+NJS=?,AT+NJS: (0-1),OK ,This is the notes
+18:59:25 , Hut , AT+PING=?,AT+PING: (-140-0)-(-20.0-20.0),OK ,This is the notes

@@ -1,0 +1,5 @@
+15:45:39 ,  , AT+JOIN,,
+15:45:45 ,  , Successfully joined network,OK ,
+15:45:46 ,  , AT+ACK=1, OK ,
+15:45:48 ,  , AT+SEND=1,,
+15:45:51 ,  ,  OK ,

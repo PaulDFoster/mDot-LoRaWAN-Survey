@@ -1,0 +1,6 @@
+19:15:51 , Hut , AT+SEND=1,,Noites here
+19:15:54 , Hut ,  OK ,Noites here
+19:16:01 , Hut , AT+NJS=?,AT+NJS: (0;1),OK ,Noites here
+19:16:02 , Hut , AT+PING=?,AT+PING: (-140-0);(-20.0-20.0),OK ,Noites here
+19:16:03 , Hut , AT+NLC=?,AT+NLC: (-20.0-20.0);(1-),OK ,Noites here
+19:16:14 , Hut , AT+NJS=?,AT+NJS: (0;1),OK AT+PING=?,AT+PING: (-140-0);(-20.0-20.0),OK AT+NLC=?,AT+NLC: (-20.0-20.0);(1-),OK ,Noites here

@@ -1,0 +1,9 @@
+15:55:12 , Lounge , AT+SEND=1,,Gateway next door
+15:55:15 , Lounge ,  OK ,Gateway next door
+15:55:17 , Lounge , AT+NJS,1,OK ,Gateway next door
+15:55:19 , Lounge , AT+PING,,Gateway next door
+15:55:23 , Lounge , -31;5.8,OK ,Gateway next door
+15:55:24 , Lounge , AT+NLC,,ERROR ,Gateway next door
+15:55:28 , Lounge , AT+NLC,,ERROR ,Gateway next door
+15:55:36 , Lounge , AT+NLC,,Gateway next door
+15:55:39 , Lounge , 27;3,OK ,Gateway next door

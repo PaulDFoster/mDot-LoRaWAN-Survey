@@ -1,0 +1,4 @@
+18:48:33 , Hut , AT+SEND=1,System.Windows.Controls.TextBox: The hut is fab
+18:48:36 , Hut ,  OK System.Windows.Controls.TextBox: The hut is fab
+18:48:48 , Gym , AT+SEND=1,System.Windows.Controls.TextBox: The gym is fab
+18:48:52 , Gym ,  OK System.Windows.Controls.TextBox: The gym is fab

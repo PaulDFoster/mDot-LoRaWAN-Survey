@@ -1,0 +1,14 @@
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\bin\Debug\TBS LoRaWAN Survey.exe.config
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\bin\Debug\TBS LoRaWAN Survey.exe
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\bin\Debug\TBS LoRaWAN Survey.pdb
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey.csprojResolveAssemblyReference.cache
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\MainWindow.g.cs
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\App.g.cs
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey_MarkupCompile.cache
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey_MarkupCompile.lref
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\MainWindow.baml
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey.g.resources
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS_LoRaWAN_Survey.Properties.Resources.resources
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey.csproj.GenerateResource.Cache
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey.exe
+c:\users\paulfo\documents\visual studio 2017\Projects\TBS LoRaWAN Survey\TBS LoRaWAN Survey\obj\Debug\TBS LoRaWAN Survey.pdb
